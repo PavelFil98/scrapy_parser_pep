@@ -1,1 +1,1 @@
-# scrapy_parser_pep
+#  Парсер документов PEP на базе фреймворка Scrapy.
