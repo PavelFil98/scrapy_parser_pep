@@ -1,6 +1,8 @@
 # Python PEP Parsing Project
 
-### Installing
+## Парсер документов PEP на базе фреймворка Scrapy.
+
+### Установка
 
 ```
 git clone https://github.com/PavelFil98/scrapy_parser_pep.git
@@ -19,12 +21,13 @@ pip install -r requirements.txt
 ```
 
 
-### Introducing
+### Запуск
 
 Command to get all existing PEPs along with they actual statuses:
 
 ```
 scrapy crawl pep
 ```
+Результаты появятся в папке `results`
 
-The results will be in a folder `results`
+Автор: Павел Филипович
